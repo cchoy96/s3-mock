@@ -1,0 +1,5 @@
+version: "2.1"
+services:
+  s3mock:
+    environment:
+      DISCOVERY_HOST: "1.2.3.4"
